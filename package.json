@@ -2,7 +2,7 @@
   "name": "jarujarugame",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +11,8 @@
   "dependencies": {
     "actions-on-google": "^2.5.0",
     "express": "^4.16.4"
+  },
+  "engines": {
+    "node": ">=6.9.1"
   }
 }
